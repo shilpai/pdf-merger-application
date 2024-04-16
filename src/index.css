@@ -1,0 +1,19 @@
+.header {
+  background-color: #333;
+  color: white;
+  padding: 10px 0;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: start;
+}
+
+.brand {
+  font-size: 20px;
+  font-weight: bold;
+}
+
